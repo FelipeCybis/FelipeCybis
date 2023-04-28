@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Felipe 👋
 
 <!--
 **FelipeCybis/FelipeCybis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### stats
+
+![](https://raw.githubusercontent.com/julienbarrier/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/julienbarrier/github-stats-transparent/output/generated/languages.svg)
