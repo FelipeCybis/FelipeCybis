@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### stats
+### Github stats
 
 ![](https://raw.githubusercontent.com/FelipeCybis/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/FelipeCybis/github-stats-transparent/output/generated/languages.svg)
