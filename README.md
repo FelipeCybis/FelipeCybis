@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am currently a PhD candidate studying freely-moving rats with functional Ultrasound imaging 🐀🩻📈.
+
 ### Github stats
 
 ![](https://raw.githubusercontent.com/FelipeCybis/github-stats-transparent/output/generated/overview.svg)
